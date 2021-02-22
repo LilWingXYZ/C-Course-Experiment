@@ -1,0 +1,4 @@
+1.Cicle, 4.0
+2.Rectangle, 2.0
+3.RightAngle, 3.5
+4.Square, 1.5
